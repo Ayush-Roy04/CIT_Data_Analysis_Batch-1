@@ -10,7 +10,7 @@ Total Marks
 Average Marks
 Print the report using an f-string."""
 
-name = input("Enter your name: ").strip()
+name = input("Enter your name: ")
 rollno = int(input("Enter Roll no.: "))
 physics = float(input("Enter marks of Physics: "))
 chemistry = float(input("Enter marks of Chemistry: "))
